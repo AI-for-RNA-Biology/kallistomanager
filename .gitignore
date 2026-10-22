@@ -1,0 +1,15 @@
+# SPDX-FileCopyrightText: 2023 Idiap Research Institute <contact@idiap.ch>
+#
+# SPDX-FileContributor: <Author last name> <Author first name> firstname.lastname@idiap.ch
+#
+# SPDX-License-Identifier: LicenseRef-ProjectNameID
+
+*.egg-info
+.coverage
+notebooks
+.ipynb
+.ipynb_checkpoints
+.DS_Store
+**/__pycache__/
+.env
+.vscode/
